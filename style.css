@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: #7941d4;
+  }
+  
+  body, html {
+    height: 85%;
+    margin: 0;
+    font-family: Times New Roman;
+    background-color: #7a00512d; 
+  }
+  body {
+    font-family: 'Aoboshi One';font-size: 22px;
+  }
+  .topnav {
+    overflow: hidden;
+    background-color: #E6E6FA;
+  }
+  .topnav a {
+    float: left;
+    color: #0b478b;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #f1a8ff;
+    color: rgb(5, 57, 117);
+  }
+  img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  
